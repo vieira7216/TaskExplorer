@@ -13,7 +13,7 @@
     <name>CAffinityDialog</name>
     <message>
         <location filename="GUI/AffinityDialog.cpp" line="9"/>
-        <source>Affinity controls which CPUs tasks are allowed to be executed on.</source>
+        <source>A afinidade controla quais tarefas da CPU podem ser executadas.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -23,17 +23,17 @@
     </message>
     <message>
         <location filename="GUI/AffinityDialog.cpp" line="24"/>
-        <source>Select all</source>
+        <source>Selecionar tudo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/AffinityDialog.cpp" line="28"/>
-        <source>Deselect all</source>
+        <source>Desmarcar tudo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/AffinityDialog.cpp" line="63"/>
-        <source>CPU Affinity for: %1</source>
+        <source>Afinidade de CPU para: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -41,27 +41,27 @@
     <name>CAtomView</name>
     <message>
         <location filename="GUI/SystemInfo/KernelInfo/AtomView.cpp" line="29"/>
-        <source>Atom name|Ref. count</source>
+        <source>Nome Atom|Ref. contar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/KernelInfo/AtomView.cpp" line="58"/>
-        <source>Delete</source>
+        <source>Excluir</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/KernelInfo/AtomView.cpp" line="127"/>
-        <source>(Error) #%1</source>
+        <source>(Erro) #%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/KernelInfo/AtomView.cpp" line="132"/>
-        <source>%1 (Pinned)</source>
+        <source>%1 (Fixado)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/KernelInfo/AtomView.cpp" line="177"/>
-        <source>Do you want to delete the atom: %1</source>
+        <source>Você quer excluir o atom: %1?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -74,7 +74,7 @@
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="51"/>
-        <source>CPU Usage</source>
+        <source>Uso da CPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -85,47 +85,47 @@
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="77"/>
-        <source>Show one graph per CPU</source>
+        <source>Mostrar um gráfico por CPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="103"/>
-        <source>CPU Info</source>
+        <source>Inf. da CPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="110"/>
-        <source>Utilization:</source>
+        <source>Uso:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="114"/>
-        <source>Clock Speed:</source>
+        <source>Velocidade do Relógio:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="118"/>
-        <source>NUMA Count:</source>
+        <source>Contagem NUMA:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="122"/>
-        <source>CPU Count:</source>
+        <source>Contagem de CPU:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="128"/>
-        <source>Other Info</source>
+        <source>Outras Infs.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="135"/>
-        <source>Context switches:</source>
+        <source>Mudanças de contexto:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="139"/>
-        <source>Interrupts:</source>
+        <source>Interrupções</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -135,7 +135,7 @@
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="147"/>
-        <source>System calls:</source>
+        <source>Chamadas do sistema:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -150,7 +150,7 @@
     </message>
     <message>
         <location filename="GUI/SystemInfo/CPUView.cpp" line="190"/>
-        <source>%1 sockets / %2 nodes</source>
+        <source>%1 soquetes / %2 nós</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -171,7 +171,7 @@
     <name>CDebugView</name>
     <message>
         <location filename="GUI/TaskInfo/DebugView.cpp" line="14"/>
-        <source>Process|Time stamp|Message</source>
+        <source>Processo|Carimbo de hora|Mensagem</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -179,47 +179,47 @@
     <name>CDiskView</name>
     <message>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="15"/>
-        <source>Disks</source>
+        <source>Discos</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="53"/>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="56"/>
-        <source>Disk Usage</source>
+        <source>Uso de Disco</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="62"/>
-        <source>Data Rates</source>
+        <source>Taxa de Dados</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="67"/>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="93"/>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="104"/>
-        <source>Read Rate</source>
+        <source>Taxa de Leitura</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="74"/>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="94"/>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="105"/>
-        <source>Write Rate</source>
+        <source>Taxa de Gravação</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="84"/>
-        <source>IO Rates</source>
+        <source>Taxas IO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="89"/>
-        <source>File IO</source>
+        <source>Arquivos IO</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="95"/>
-        <source>Other Rate</source>
+        <source>Outras Taxas</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -229,7 +229,7 @@
     </message>
     <message>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="112"/>
-        <source>Disk Name|Usage|Latency|Queue|Read Rate|Bytes Read Delta|Bytes Read|Reads Delta|Reads|Write Rate|Bytes Writen Delta|Bytes Writen|Writes Delta|Writes|Device Path</source>
+        <source>Nome do Disco|Uso|Latência|Fila|Taxa de Leitura|Delta de Leitura de Bytes|Bytes Lidos|Delta Lidos|Leituras|Taxa de Gravação|Delta de Bytes Bravados|Bytes Gravados|Delta Gravados|Gravações|Caminho do Dispositivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -250,7 +250,7 @@
     <message>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="290"/>
         <location filename="GUI/SystemInfo/DiskView.cpp" line="291"/>
-        <source>Other Disks (unsupported)</source>
+        <source>Outros Discos (unsupported)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -258,32 +258,32 @@
     <name>CDnsModel</name>
     <message>
         <location filename="GUI/Models/DnsModel.cpp" line="197"/>
-        <source>Host name</source>
+        <source>Nome do Host</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/DnsModel.cpp" line="198"/>
-        <source>Type</source>
+        <source>Tipo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/DnsModel.cpp" line="199"/>
-        <source>TTL (sec)</source>
+        <source>TTL (seg)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/DnsModel.cpp" line="200"/>
-        <source>Last seen</source>
+        <source>Último visto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/DnsModel.cpp" line="201"/>
-        <source>Counter</source>
+        <source>Contador</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/DnsModel.cpp" line="202"/>
-        <source>Resolved data</source>
+        <source>Dados resolvidos</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -291,22 +291,22 @@
     <name>CDotNetView</name>
     <message>
         <location filename="GUI/TaskInfo/DotNetView.cpp" line="27"/>
-        <source>Refresh</source>
+        <source>Atualizar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/DotNetView.cpp" line="38"/>
-        <source>Structure</source>
+        <source>Estrutura</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/DotNetView.cpp" line="39"/>
-        <source>File Name</source>
+        <source>Nome do Arquivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/DotNetView.cpp" line="40"/>
-        <source>Flags</source>
+        <source>Bandeiras</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -316,17 +316,17 @@
     </message>
     <message>
         <location filename="GUI/TaskInfo/DotNetView.cpp" line="42"/>
-        <source>Native Path</source>
+        <source>Caminho Nativo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/DotNetView.cpp" line="74"/>
-        <source>Counter|Value</source>
+        <source>Contador|Valor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/DotNetView.cpp" line="87"/>
-        <source>Open File</source>
+        <source>Abrir Arquivo</source>
         <oldsource>Open</oldsource>
         <translation type="unfinished"></translation>
     </message>
@@ -340,32 +340,32 @@
     </message>
     <message>
         <location filename="GUI/Models/DriverModel.cpp" line="127"/>
-        <source>Image base</source>
+        <source>Imagem base</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/DriverModel.cpp" line="128"/>
-        <source>Image size</source>
+        <source>Tamanho da imagem</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/DriverModel.cpp" line="129"/>
-        <source>Description</source>
+        <source>Descrição</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/DriverModel.cpp" line="130"/>
-        <source>Company name</source>
+        <source>Nome da empresa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/DriverModel.cpp" line="131"/>
-        <source>Version</source>
+        <source>Versão</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/DriverModel.cpp" line="133"/>
-        <source>Binary path</source>
+        <source>Caminho binário</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -373,72 +373,72 @@
     <name>CDriverWindow</name>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="27"/>
-        <source>Test Signing Enabled</source>
+        <source>Assinatura de Teste Ativada</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="29"/>
-        <source>Signature Required (CKS Enabled)</source>
+        <source>Assinatura Exigida (CKS Ativado)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="31"/>
-        <source>Signature Required</source>
+        <source>Assinatura Exigida</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="93"/>
-        <source>DynData loaded</source>
+        <source>DynData carregado</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="95"/>
-        <source>DynData NOT loaded</source>
+        <source>DynData NÃO carregado</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="101"/>
-        <source>None</source>
+        <source>Nada</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="102"/>
-        <source>Minimal</source>
+        <source>Mínimo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="103"/>
-        <source>Low</source>
+        <source>Baixo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="104"/>
-        <source>Medium</source>
+        <source>Médio</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="105"/>
-        <source>High</source>
+        <source>Alto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="106"/>
-        <source>Maximum</source>
+        <source>Máximo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="84"/>
-        <source>Not installed</source>
+        <source>Não instalado</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="90"/>
-        <source>Connected</source>
+        <source>Conectado</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/DriverWindow.cpp" line="112"/>
-        <source>Disconnected</source>
+        <source>Desconectado</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -452,42 +452,42 @@
     <name>CEnvironmentView</name>
     <message>
         <location filename="GUI/TaskInfo/EnvironmentView.cpp" line="17"/>
-        <source>Name|Type|Value</source>
+        <source>Nome|Tipo|Valor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/EnvironmentView.cpp" line="47"/>
-        <source>Edit</source>
+        <source>Editar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/EnvironmentView.cpp" line="48"/>
-        <source>Add</source>
+        <source>Adicionar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/EnvironmentView.cpp" line="49"/>
-        <source>Delete</source>
+        <source>Excluir</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/EnvironmentView.cpp" line="145"/>
-        <source>Enter Environment Variable</source>
+        <source>Insira a Variável de Ambiente</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/EnvironmentView.cpp" line="146"/>
-        <source>Name:</source>
+        <source>Nome:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/EnvironmentView.cpp" line="149"/>
-        <source>Value:</source>
+        <source>Valor:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/EnvironmentView.cpp" line="167"/>
-        <source>Do you want to delete the environment variable %1</source>
+        <source>Você quer excluir a varíavel de ambiente %1?</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -500,27 +500,27 @@
     </message>
     <message>
         <location filename="GUI/Models/GDIModel.cpp" line="123"/>
-        <source>Handle</source>
+        <source>Manipular</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/GDIModel.cpp" line="124"/>
-        <source>Process</source>
+        <source>Processo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/GDIModel.cpp" line="125"/>
-        <source>Type</source>
+        <source>Tipo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/GDIModel.cpp" line="126"/>
-        <source>Object</source>
+        <source>Objeto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/GDIModel.cpp" line="127"/>
-        <source>Information</source>
+        <source>Informação</source>
         <oldsource>Informations</oldsource>
         <translation type="unfinished"></translation>
     </message>
@@ -535,22 +535,22 @@
     <message>
         <location filename="GUI/SystemInfo/GPUView.cpp" line="52"/>
         <location filename="GUI/SystemInfo/GPUView.cpp" line="57"/>
-        <source>GPU Usage</source>
+        <source>Uso de GPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/GPUView.cpp" line="66"/>
-        <source>VRAM Usage</source>
+        <source>Uso de VRAM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/GPUView.cpp" line="70"/>
-        <source>Show one graph per Node</source>
+        <source>Mostrar um gráfico por Nó</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/SystemInfo/GPUView.cpp" line="78"/>
-        <source>Model|Location|Driver Version|HwID|Dedicated Usage|Dedicated Limit|Shared Usage|Shared Limit|Device Interface</source>
+        <source>Modol|Local|Versão do Driver|HwID|Uso Dedicado|Limite Dedicado|Uso Compartilhado|Limite Compartilhado|Interface do Dispositivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -560,7 +560,7 @@
     </message>
     <message>
         <location filename="GUI/SystemInfo/GPUView.cpp" line="228"/>
-        <source>Node Usage</source>
+        <source>Uso de Nó</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -568,42 +568,42 @@
     <name>CGraphBar</name>
     <message>
         <location filename="GUI/GraphBar.cpp" line="29"/>
-        <source>Reset Plot</source>
+        <source>Redefinir Gráfico</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="30"/>
-        <source>Reset All Plots</source>
+        <source>Redefinir Todos Gráficos</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="31"/>
-        <source>Customize Plots</source>
+        <source>Personalizar Gráficos</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="269"/>
-        <source>Memory=%1%</source>
+        <source>Memória=%1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="281"/>
-        <source>Gpu Memory</source>
+        <source>Memória de Gpu</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="292"/>
-        <source>Objects&lt;%1</source>
+        <source>Objetos&lt;%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="304"/>
-        <source>Windows&lt;%1</source>
+        <source>Janelas&lt;%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="312"/>
-        <source>Handles&lt;%1</source>
+        <source>Manipulações&lt;%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -617,12 +617,12 @@
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="360"/>
-        <source>Disk=%1%</source>
+        <source>Disco=%1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="372"/>
-        <source>DiskIO&lt;%1</source>
+        <source>DiscoIO&lt;%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -632,7 +632,7 @@
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="409"/>
-        <source>FileIO&lt;%1</source>
+        <source>ArquivoIO&lt;%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -642,12 +642,12 @@
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="439"/>
-        <source>Client&lt;%1</source>
+        <source>Cliente&lt;%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="450"/>
-        <source>Server&lt;%1</source>
+        <source>Servidor&lt;%1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -672,72 +672,72 @@
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="589"/>
-        <source>Graph Rows</source>
+        <source>Linhas do Gráfico</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="598"/>
-        <source>Select graphs that will be displayed in the graph bar.</source>
+        <source>Selecione gráficos que serão exibidos na barra de gráficos.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="599"/>
-        <source>Graph Chooser</source>
+        <source>Seletor de Gráfico</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="602"/>
-        <source>GPU Memory</source>
+        <source>Memória de GPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="603"/>
-        <source>System Memory</source>
+        <source>Memória do Sistema</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="604"/>
-        <source>Object Usage</source>
+        <source>Uso do Objeto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="605"/>
-        <source>Window Usage</source>
+        <source>Uso da Janela</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="606"/>
-        <source>Handle Usage</source>
+        <source>Manipular o Uso</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="607"/>
-        <source>Disk I/O</source>
+        <source>Disco I/O</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="608"/>
-        <source>Memory Mapped I/O</source>
+        <source>Memória Mapeada I/O</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="609"/>
-        <source>File I/O</source>
+        <source>Arquivo I/O</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="610"/>
-        <source>Samba Combined U/D</source>
+        <source>Samba Combinado U/D</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="611"/>
-        <source>Samba Client U/D</source>
+        <source>Cliente Samba U/D</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="612"/>
-        <source>Samba Server U/D</source>
+        <source>Servidor Samba U/D</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -747,143 +747,143 @@
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="614"/>
-        <source>Network U/D</source>
+        <source>Rede U/D</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="615"/>
-        <source>GPU Usage</source>
+        <source>Uso de GPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="616"/>
-        <source>CPU Usage</source>
+        <source>Uso de CPU</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="680"/>
-        <source>System Memory Usage:</source>
+        <source>Uso de Memória do Sistema:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="681"/>
-        <source>    Commited memory: %1</source>
+        <source>    Memória comprometida: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="682"/>
-        <source>    Swapped memory: %1</source>
+        <source>    Memória trocada: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="683"/>
-        <source>    Cache memory: %1</source>
+        <source>    Memória cache: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="684"/>
-        <source>    Physical memory used: %1/%2</source>
+        <source>    Memória física usada: %1/%2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="692"/>
-        <source>%1 Memory Usage:</source>
+        <source>%1 Uso de Memória:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="693"/>
-        <source>    Dedicated memory: %1/%2</source>
+        <source>    Memória dedicada: %1/%2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="694"/>
-        <source>    Shared memory: %1/%2</source>
+        <source>    Memória compartilhada: %1/%2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="701"/>
-        <source>Object Usage:</source>
+        <source>Uso de Objeto:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="702"/>
-        <source>    Gdi objects: %1</source>
+        <source>    Objetos Gdi: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="703"/>
-        <source>    User objects: %1</source>
+        <source>    Objetos de usuário: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="709"/>
-        <source>Window Usage:</source>
+        <source>Uso de Janela:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="710"/>
-        <source>    Window objects: %1</source>
+        <source>    Objetos de janela: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="715"/>
-        <source>Handle Usage:</source>
+        <source>Manipular Uso:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="716"/>
-        <source>    Handles: %1</source>
+        <source>    Manipulações: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="724"/>
-        <source>Disk Usage:</source>
+        <source>Uso de Disco:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="726"/>
         <location filename="GUI/GraphBar.cpp" line="803"/>
-        <source>    %1 usage: %2%</source>
+        <source>    %1 uso: %2%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="730"/>
-        <source>Disk I/O:</source>
+        <source>Disco I/O:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="731"/>
         <location filename="GUI/GraphBar.cpp" line="738"/>
         <location filename="GUI/GraphBar.cpp" line="744"/>
-        <source>    Read rate: %1</source>
+        <source>    Taxa de leitura: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="732"/>
         <location filename="GUI/GraphBar.cpp" line="739"/>
         <location filename="GUI/GraphBar.cpp" line="745"/>
-        <source>    Write rate: %1</source>
+        <source>    Taxa de gravação: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="737"/>
-        <source>Memory mapped I/O:</source>
+        <source>Memória mapeada I/O:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="743"/>
-        <source>File I/O:</source>
+        <source>Arquivo I/O:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="746"/>
-        <source>    Other rate: %1</source>
+        <source>    Outra taxa: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="751"/>
         <location filename="GUI/GraphBar.cpp" line="760"/>
-        <source>Samba client:</source>
+        <source>Cliente Samba:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -893,7 +893,7 @@
         <location filename="GUI/GraphBar.cpp" line="767"/>
         <location filename="GUI/GraphBar.cpp" line="777"/>
         <location filename="GUI/GraphBar.cpp" line="786"/>
-        <source>    Receive rate: %1</source>
+        <source>    Taxa de recepção: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -903,13 +903,13 @@
         <location filename="GUI/GraphBar.cpp" line="768"/>
         <location filename="GUI/GraphBar.cpp" line="778"/>
         <location filename="GUI/GraphBar.cpp" line="787"/>
-        <source>    Send rate: %1</source>
+        <source>    Taxa de envio: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="754"/>
         <location filename="GUI/GraphBar.cpp" line="766"/>
-        <source>Samba server:</source>
+        <source>Servidor Samba:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -919,42 +919,42 @@
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="785"/>
-        <source>TCP/IP Traffic:</source>
+        <source>Tráfego TCP/IP:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="791"/>
-        <source>    LAN Receive rate: %1</source>
+        <source>    Taxa de Recepção LAN: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="792"/>
-        <source>    LAN Send rate: %1</source>
+        <source>    Taxa de Envio LAN: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="801"/>
-        <source>GPU Usage:</source>
+        <source>Uso de GPU:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="807"/>
-        <source>CPU Usage:</source>
+        <source>Uso de CPU:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="808"/>
-        <source>    User usage: %1%</source>
+        <source>    Uso do usuário: %1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="809"/>
-        <source>    Kernel usage: %1%</source>
+        <source>    Uso de Kernel: %1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/GraphBar.cpp" line="810"/>
-        <source>    DPC/IRQ usage: %1%</source>
+        <source>    Uso DPC/IRQ: %1%</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -972,62 +972,62 @@
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="124"/>
-        <source>Unknown process</source>
+        <source>Processo desconhecido</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="176"/>
-        <source>Process</source>
+        <source>Processo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="177"/>
-        <source>Handle</source>
+        <source>Manipular</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="178"/>
-        <source>Type</source>
+        <source>Tipo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="179"/>
-        <source>File Name</source>
+        <source>Nome do Arquivo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="180"/>
-        <source>Position</source>
+        <source>Posição</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="181"/>
-        <source>Size</source>
+        <source>Tamanho</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="182"/>
-        <source>Granted access</source>
+        <source>Acesso concedido</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="184"/>
-        <source>File share access</source>
+        <source>Acesso ao compartilhamento de arquivos</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="185"/>
-        <source>Attributes</source>
+        <source>Atributos</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="186"/>
-        <source>Object address</source>
+        <source>Endereço do objeto/source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Models/HandleModel.cpp" line="187"/>
-        <source>Original name</source>
+        <source>Nome original</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1035,12 +1035,12 @@
     <name>CHandleSearch</name>
     <message>
         <location filename="GUI/Search/HandleSearch.cpp" line="14"/>
-        <source>Handle search...</source>
+        <source>Manipular pesquisa...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/Search/HandleSearch.cpp" line="17"/>
-        <source>All</source>
+        <source>Tudo</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1048,160 +1048,160 @@
     <name>CHandlesView</name>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="57"/>
-        <source>Types:</source>
+        <source>Tipos:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="65"/>
-        <source>[All]</source>
+        <source>[Tudo]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="103"/>
-        <source>Hide Unnamed</source>
+        <source>Ocultar Sem Nome</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="106"/>
-        <source>Hide ETW</source>
+        <source>Ocultar ETW</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="192"/>
-        <source>Name|Value</source>
+        <source>Nome|Valor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="230"/>
-        <source>Open Handle</source>
+        <source>Abrir Manipular</source>
         <oldsource>Open</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="234"/>
-        <source>Close</source>
+        <source>Fechar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="240"/>
-        <source>Protect</source>
+        <source>Proteger</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="242"/>
-        <source>Inherit</source>
+        <source>Herdar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="250"/>
-        <source>Semaphore</source>
+        <source>Semáforo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="251"/>
-        <source>Acquire</source>
+        <source>Adquirir</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="252"/>
-        <source>Release</source>
+        <source>Liberar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="254"/>
-        <source>Event</source>
+        <source>Evento</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="255"/>
-        <source>Set</source>
+        <source>Definir</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="256"/>
-        <source>Reset</source>
+        <source>Redefinir</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="257"/>
-        <source>Pulse</source>
+        <source>Pulso</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="259"/>
-        <source>Event Pair</source>
+        <source>Par de Eventos</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="260"/>
-        <source>Set Low</source>
+        <source>Definir Baixo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="261"/>
-        <source>Set High</source>
+        <source>Definir Alto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="263"/>
-        <source>Timer</source>
+        <source>Temporizador</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="264"/>
-        <source>Cancel</source>
+        <source>Cancelar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="266"/>
-        <source>Task</source>
+        <source>Tarefa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="267"/>
-        <source>Terminate</source>
+        <source>Encerrar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="268"/>
-        <source>Suspend</source>
+        <source>Suspender</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="269"/>
-        <source>Resume</source>
+        <source>Retomar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="273"/>
-        <source>Permissions</source>
+        <source>Permissões</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="510"/>
-        <source>Basic information</source>
+        <source>Informação Básica</source>
         <oldsource>Basic informations</oldsource>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="513"/>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="660"/>
-        <source>Name</source>
+        <source>Nome</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="516"/>
-        <source>Type</source>
+        <source>Tipo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="517"/>
-        <source>Object address</source>
+        <source>Endereço do objeto</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="GUI/TaskInfo/HandlesView.cpp" line="519"/>
-        <source>Security information</source>
+        <source>Informação de segurança</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
